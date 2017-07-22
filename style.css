@@ -1,0 +1,88 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  font-family: Arial,'Helvetic Neue','Helvetic','sans-serif';
+  font-size: 18px;
+  width: 960px;
+  background: #777;
+  margin: 100px;
+  margin-top:20px;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+}
+header {
+  background: #ebebeb;
+  padding: 20px;
+  margin-bottom: 10px;
+  color: #777;
+  
+}
+
+nav {
+  background: #ebebeb;
+  padding: 20px;
+  color: #777;
+  margin-bottom: 10px;
+  
+}
+aside {
+  background: #ebebeb;
+  width: 40%;
+  height: 300px;
+  border: 5px solid #eee;
+  padding: 30px;
+  float: right;
+  margin-bottom: 10px;
+  color: #777;
+  
+}
+#school{
+  background-color: #ebebeb;
+  color: #777;
+  height: 300px;
+  padding: 30px;
+  margin-right: 10%;
+  width: 550px;
+  text-align: 50%;
+
+}
+
+article{
+  background-color: #777;
+  margin-top: 25px;
+  margin-left: 15px;
+  margin-right: 15px;
+  color: white;
+  padding: 20px;
+
+}
+
+h1,h2,h3{
+  background: #ebebeb;
+  color:  #777;
+  padding: 10px;
+  font-size: 18px;
+
+}
+
+p{
+  background: #ebebeb;
+  color:  #777;
+  padding: 10px;
+
+}
+
+footer {
+  clear: both;
+  overflow: auto;
+  background: #ebebeb;
+  padding: 20px;
+  bottom: 0;
+  color: #777; 
+  
+}
